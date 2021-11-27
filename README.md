@@ -1,4 +1,4 @@
-# 公眾交通運輸查詢系統 PTX System PTX System
+# 公眾交通運輸查詢系統 PTX System
 
 ## 簡介 Introduction
 
