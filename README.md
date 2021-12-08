@@ -3,7 +3,7 @@
 ## 簡介 Introduction
 
 ### ★★★必須連接網路才可使用★★★
-- ### PTX帳號審核中，不能開發QQ
+- ### 還在研究PTX API說明中(空閒時間繼續開發)
 每次查詢交通運輸系統都很麻煩，雖然有經有現成APP可以查詢，但自己也想有屬於自己風格的查詢工具，主要希望可以整合台鐵、高鐵、公車和航空四個面向的交通工具於一個程式使用，主要透過PyQt5開發GUI，並結合PTX官網提供的即時API取得JSON資料應用於程式上。
 
 - PTX官網:https://ptx.transportdata.tw/PTX/ 
@@ -27,4 +27,7 @@
 - ### 主頁面 HomePage
     ![](https://i.imgur.com/OL8rlPS.png)
 
+- ### 查詢頁面 Railway Inquire
+    ![](https://i.imgur.com/5K4rSLQ.png)
+    
 (待補充...)

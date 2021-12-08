@@ -14,6 +14,7 @@ class HomePage(QDialog,Ui_homePage):
         self.setupUi(self)
         self.show()
         self.setWindowTitle("Home")
+        self.setFixedSize(self.size())
         self.setWindowIcon(QIcon("./UI/images/homePage_icon.png"))
         self.setStyleSheet("background-color:#1B9AAA")
 
