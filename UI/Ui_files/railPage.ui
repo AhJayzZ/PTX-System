@@ -47,7 +47,7 @@
      <enum>QLayout::SetDefaultConstraint</enum>
     </property>
     <item row="0" column="0">
-     <widget class="QLabel" name="startLabel_2">
+     <widget class="QLabel" name="startLabel">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
         <horstretch>0</horstretch>
@@ -78,7 +78,7 @@
      </widget>
     </item>
     <item row="0" column="2">
-     <widget class="QLabel" name="startLabel">
+     <widget class="QLabel" name="destinationLabel">
       <property name="font">
        <font>
         <pointsize>15</pointsize>
@@ -87,7 +87,7 @@
        </font>
       </property>
       <property name="text">
-       <string>起點:</string>
+       <string>終點:</string>
       </property>
      </widget>
     </item>

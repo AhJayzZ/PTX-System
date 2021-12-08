@@ -27,7 +27,8 @@
 - ### 主頁面 HomePage
     ![](https://i.imgur.com/OL8rlPS.png)
 
-- ### 查詢頁面 Railway Inquire
-    ![](https://i.imgur.com/5K4rSLQ.png)
+- ### 查詢頁面 Railway Inquire (尚未完成 Unfinished)
+    ![](https://i.imgur.com/mnkvmRZ.png)
+
     
 (待補充...)
